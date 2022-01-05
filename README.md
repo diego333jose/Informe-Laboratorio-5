@@ -18,7 +18,7 @@ INTEGRANTES:
 
 • Alvarado Nevárez Diego José
 
-**PRÁCTICA No. 3 Analisis de Nodos**
+**PRÁCTICA No. 5 Teorema de Thevenin**
 
 Objetivos:
 
