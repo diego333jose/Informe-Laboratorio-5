@@ -28,7 +28,9 @@ General:
 
 Especificos:
 
+- Familiarizar al estudiante con el uso del teorema de Thévenin 
 
+-	Detallar la forma correcta de hacer los cambios de un circuitos original a un circuito equivalente Thévenin
 
 Marco teorico:
 
@@ -52,7 +54,8 @@ Simuladores:
 
 Conclusiones:
 
-
+-	Queda comprobado que el teorema de Thévenin es un método empleado para transformar cualquier circuito lineal de dos terminales en un circuito equivalente con sólo una fuente de voltaje en serie con una sola resistencia
+-	
 Recomendaciones:
 
 •	Armar el circuito correctamente, y verificar si todos los componentes estan en orden
