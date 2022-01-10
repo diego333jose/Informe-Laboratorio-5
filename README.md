@@ -73,7 +73,7 @@ Literal D
 Conclusiones:
 
 -	Queda comprobado que el teorema de Thévenin es un método empleado para transformar cualquier circuito lineal de dos terminales en un circuito equivalente con sólo una fuente de voltaje en serie con una sola resistencia
--	
+
 Recomendaciones:
 
 •	Armar el circuito correctamente, y verificar si todos los componentes estan en orden
