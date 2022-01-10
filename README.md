@@ -34,23 +34,41 @@ Especificos:
 
 Marco teorico:
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-5/blob/main/Imagenes/Mapa%208_page-0001%20(1).jpg)
 
 Ejercicios
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-5/blob/main/Imagenes/Cálculos%20del%20circuito%20Lab5_page-0001.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-5/blob/main/Imagenes/Cálculos%20del%20circuito%20Lab5_page-0002.jpg)
 
 Simuladores:
 
 - Tinkercad
 
-![](
+Literal A
+
+![](https://github.com/diego333jose/Informe-Laboratorio-5/blob/main/Imagenes/Voltaje%201.png)
+
+![](https://github.com/diego333jose/Informe-Laboratorio-5/blob/main/Imagenes/Intensidad%201.png)
+
+Literal B
+
+![](https://github.com/diego333jose/Informe-Laboratorio-5/blob/main/Imagenes/Voltaje%20sin%20R5.png)
+
+Literal C
+
+![](https://github.com/diego333jose/Informe-Laboratorio-5/blob/main/Imagenes/Resistencia%20fuentes%200.png)
+
+Literal D
+
+![](https://github.com/diego333jose/Informe-Laboratorio-5/blob/main/Imagenes/Equivalente%20Voltaje%202.png)
+
+![](https://github.com/diego333jose/Informe-Laboratorio-5/blob/main/Imagenes/Equivalente%20Intensidad%202.png)
 
 - Analisis de datos
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-5/blob/main/Imagenes/Cálculos%20del%20circuito%20Lab5_page-0003.jpg)
 
 Conclusiones:
 
@@ -64,6 +82,6 @@ Recomendaciones:
 
 Referencias:
 
-
+- Floyd T. (2007). 5 Principios de circuitos electricos. Pearson Education.
 
 Link del video: https://www.youtube.com/watch?v=V_yvopXqLDE
